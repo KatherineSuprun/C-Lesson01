@@ -1,0 +1,8 @@
+/home/kate/Downloads/Hillel/Lesson1/Example/build/CMakeFiles/edit_cache.dir
+/home/kate/Downloads/Hillel/Lesson1/Example/build/CMakeFiles/rebuild_cache.dir
+/home/kate/Downloads/Hillel/Lesson1/Example/build/libmath/CMakeFiles/math_functions.dir
+/home/kate/Downloads/Hillel/Lesson1/Example/build/libmath/CMakeFiles/edit_cache.dir
+/home/kate/Downloads/Hillel/Lesson1/Example/build/libmath/CMakeFiles/rebuild_cache.dir
+/home/kate/Downloads/Hillel/Lesson1/Example/build/src/CMakeFiles/main_app.dir
+/home/kate/Downloads/Hillel/Lesson1/Example/build/src/CMakeFiles/edit_cache.dir
+/home/kate/Downloads/Hillel/Lesson1/Example/build/src/CMakeFiles/rebuild_cache.dir
